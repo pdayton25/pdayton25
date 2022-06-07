@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pdayton25
+- 👋 Hi, I’m Patrick
 - 👀 I’m interested in ... front end web development
 - 🌱 I’m currently learning ... Javascript, React, Node, Tailwind
 - 💞️ I’m looking to collaborate on ... Web 3 projects
