@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patrick
-- 👀 I’m interested in ... front end web development
-- 🌱 I’m currently learning ... Javascript, React, Node, Tailwind
-- 💞️ I’m looking to collaborate on ... Web 3 projects
+- 👀 I’m interested in ... Front End Web Development
+- 🌱 I’m diving deep into ... React, Typescript, Shopify Polaris
+- 💞️ I’m looking to collaborate on ... Shopify & Web Applications,
 - 📫 How to reach me ...patrick.dayton24@gmail.com or patrickdayton.com
 
 <!---
