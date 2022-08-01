@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Patrick</h1>
 <h4>
-<p>👀 I’m interested in ... Front End Web Development<p>
+<p>👀 I’m interested in ... Web Development & Design<p>
 <p>🌱 I’m diving deep into ... React, Typescript, Shopify Polaris<p>
 <p>💞️ I’m looking to collaborate on ... Shopify & Web Applications,<p>
 <p>📫 How to reach me ...patrick.dayton24@gmail.com or patrickdayton.dev<p>
